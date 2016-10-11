@@ -1,0 +1,35 @@
+body{
+	background-image: url('img/background.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: white;
+	margin-left: 30px;
+}
+
+.tableAlt{ 
+	border: 1px solid black;
+	width: 150px;
+	font-size: 16px;
+	font-family: 'Arial Black','Arial Bold',Gadget,sans-serif !important;
+	background-color: black;
+	color: white;
+	margin-left: 30px;
+}
+form{
+	color: black;
+}
+table{}
+table tr{}
+table tr th{}
+table tr td{}
+table p{
+	display: block;
+	background-color: #BBB;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
